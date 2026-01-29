@@ -1,6 +1,12 @@
-# React + TypeScript + Vite
+# Test Git Insignias
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a sandbox environment designed to help earn various GitHub badges and achievements.
+
+## Badges & Achievements Targets
+- **Quickdraw**: Fast issue closing (simulated).
+- **Pair Extraordinaire**: Co-authored commits.
+- **YOLO**: Merging without review (on personal projects).
+
 
 Currently, two official plugins are available:
 
